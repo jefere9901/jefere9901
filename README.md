@@ -8,7 +8,7 @@
 <h3 align="center">Python / JavaScript / Go · AI Learner · 大数据练级中 · Open Source Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=520&lines=Hi+there+%F0%9F%91%8B%2C+I%27m+jefere;AI+Learner+%F0%9F%A4%96;Python+%C2%B7+JavaScript+%C2%B7+Go;Building+RAG+%26+Agents;Hadoop+%E2%86%92+Spark+%E2%86%92+Flink;Siyuan+Plugin+Developer+%F0%9F%94%A7" />
+  <img src="https://readme-typing-svg.vercel.app?font=Fira+Code&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=520&lines=Hi+there+%F0%9F%91%8B%2C+I%27m+jefere;AI+Learner+%F0%9F%A4%96;Python+%C2%B7+JavaScript+%C2%B7+Go;Building+RAG+%26+Agents;Hadoop+%E2%86%92+Spark+%E2%86%92+Flink;Efficiency+Tool+Hoarding+%F0%9F%94%A7" />
 </p>
 
 <p align="center">
@@ -25,12 +25,12 @@
 
 ## 🎮 当前状态
 
-| 冒险者 | 职业 | 主修 | 副修 |
-|:---|:---|:---|:---|
+| 冒险者                    | 职业         | 主修                                | 副修                                       |
+| :------------------------ | :----------- | :---------------------------------- | :----------------------------------------- |
 | **jefere** `Lv.1` | 双修炼金术士 | AI 应用开发（RAG · Agent · 微调） | 大数据（Hadoop → Spark → Flink → 湖仓） |
 
-| 当前副本 | 本周任务 | 经验值 |
-|:---|:---|:---|
+| 当前副本                 | 本周任务                                             | 经验值                      |
+| :----------------------- | :--------------------------------------------------- | :-------------------------- |
 | W1 · 环境搭建与学习体系 | 装好 JDK / Python / 虚拟机，把两份大纲拆成可执行清单 | `▰▱▱▱▱▱▱▱▱▱` 8% |
 
 <p align="center">
@@ -86,39 +86,39 @@ graph LR
 
 ### 🤖 AI 应用线
 
-| 技能点 | 进度 | 状态 | 联动 |
-|:---|:---|:---:|:---|
-| Python 基础 | `▰▰▰▰▰▰▱▱▱▱` 60% | 🟢 | [siyuan-sireader](https://github.com/jefere9901/siyuan-sireader) · [rss-feed-reader](https://github.com/jefere9901/rss-feed-reader) |
-| 提示词工程 | `▰▰▰▱▱▱▱▱▱▱` 30% | 🟡 | [提示词作品集](#works) |
-| Coze / Dify 工作流 | `▰▱▱▱▱▱▱▱▱▱` 10% | 🟡 | [6 个电商 AI 应用](#works) |
-| LangChain | `▱▱▱▱▱▱▱▱▱▱` 0% | ⚪ | [多模型调用封装](#roadmap) |
-| RAG 检索增强 | `▱▱▱▱▱▱▱▱▱▱` 0% | ⚪ | [掌柜智库](#works) |
-| LangGraph 图式编排 | `▱▱▱▱▱▱▱▱▱▱` 0% | ⚪ | [图式智能体](#roadmap) |
-| Rasa 对话智能体 | `▱▱▱▱▱▱▱▱▱▱` 0% | ⚪ | [电商小二](#works) |
-| 微调 / LoRA / vLLM | `▱▱▱▱▱▱▱▱▱▱` 0% | ⚪ | [私有模型服务](#works) |
+| 技能点             | 进度                         | 状态 | 联动                        |
+| :----------------- | :--------------------------- | :--: | :-------------------------- |
+| Python 基础        | `▰▰▰▰▰▰▱▱▱▱` 60% |  🟢  | [FastAPI 容器化服务](#works) |
+| 提示词工程         | `▰▰▰▱▱▱▱▱▱▱` 30% |  🟡  | [提示词作品集](#works)       |
+| Coze / Dify 工作流 | `▰▱▱▱▱▱▱▱▱▱` 10% |  🟡  | [6 个电商 AI 应用](#works)   |
+| LangChain          | `▱▱▱▱▱▱▱▱▱▱` 0%  |  ⚪  | [多模型调用封装](#roadmap)   |
+| RAG 检索增强       | `▱▱▱▱▱▱▱▱▱▱` 0%  |  ⚪  | [掌柜智库](#works)           |
+| LangGraph 图式编排 | `▱▱▱▱▱▱▱▱▱▱` 0%  |  ⚪  | [图式智能体](#roadmap)       |
+| Rasa 对话智能体    | `▱▱▱▱▱▱▱▱▱▱` 0%  |  ⚪  | [电商小二](#works)           |
+| 微调 / LoRA / vLLM | `▱▱▱▱▱▱▱▱▱▱` 0%  |  ⚪  | [私有模型服务](#works)       |
 
 ### 🗄️ 大数据线
 
-| 技能点 | 进度 | 状态 | 联动 |
-|:---|:---|:---:|:---|
-| Linux / Shell | `▰▱▱▱▱▱▱▱▱▱` 10% | 🟡 | [三节点集群模板](#roadmap) |
-| MySQL / JDBC | `▰▰▱▱▱▱▱▱▱▱` 20% | 🟡 | [电商业务库](#works) |
-| Java / Maven | `▰▰▱▱▱▱▱▱▱▱` 20% | 🟡 | [Maven 多模块工程](#works) |
-| Hadoop（HDFS / MR / YARN） | `▱▱▱▱▱▱▱▱▱▱` 0% | ⚪ | [HA 集群](#works) |
-| Hive / Flume / Kafka | `▱▱▱▱▱▱▱▱▱▱` 0% | ⚪ | [采集平台](#works) |
-| Spark / 离线数仓 | `▱▱▱▱▱▱▱▱▱▱` 0% | ⚪ | [离线数仓项目](#works) |
-| Redis / HBase | `▰▱▱▱▱▱▱▱▱▱` 10% | 🟡 | [Redis 缓存 demo](#roadmap) |
-| Flink / 实时数仓 | `▱▱▱▱▱▱▱▱▱▱` 0% | ⚪ | [实时数仓 5.0](#works) |
-| Paimon 湖仓一体 | `▱▱▱▱▱▱▱▱▱▱` 0% | ⚪ | [Paimon 湖仓项目](#works) |
+| 技能点                     | 进度                         | 状态 | 联动                       |
+| :------------------------- | :--------------------------- | :--: | :------------------------- |
+| Linux / Shell              | `▰▱▱▱▱▱▱▱▱▱` 10% |  🟡  | [三节点集群模板](#roadmap)  |
+| MySQL / JDBC               | `▰▰▱▱▱▱▱▱▱▱` 20% |  🟡  | [电商业务库](#works)        |
+| Java / Maven               | `▰▰▱▱▱▱▱▱▱▱` 20% |  🟡  | [Maven 多模块工程](#works)  |
+| Hadoop（HDFS / MR / YARN） | `▱▱▱▱▱▱▱▱▱▱` 0%  |  ⚪  | [HA 集群](#works)           |
+| Hive / Flume / Kafka       | `▱▱▱▱▱▱▱▱▱▱` 0%  |  ⚪  | [采集平台](#works)          |
+| Spark / 离线数仓           | `▱▱▱▱▱▱▱▱▱▱` 0%  |  ⚪  | [离线数仓项目](#works)      |
+| Redis / HBase              | `▰▱▱▱▱▱▱▱▱▱` 10% |  🟡  | [Redis 缓存 demo](#roadmap) |
+| Flink / 实时数仓           | `▱▱▱▱▱▱▱▱▱▱` 0%  |  ⚪  | [实时数仓 5.0](#works)      |
+| Paimon 湖仓一体            | `▱▱▱▱▱▱▱▱▱▱` 0%  |  ⚪  | [Paimon 湖仓项目](#works)   |
 
 ### 🧱 共享底座
 
-| 技能点 | 进度 | 状态 | 联动 |
-|:---|:---|:---:|:---|
-| Git / GitHub Actions | `▰▰▰▰▱▱▱▱▱▱` 40% | 🟢 | 你正在看的这个页面 🙂 |
-| Docker / Compose | `▰▱▱▱▱▱▱▱▱▱` 10% | 🟡 | [容器化 API 服务](#works) |
-| JavaScript / Vue3 | `▰▰▰▰▰▱▱▱▱▱` 50% | 🟢 | [siyuan-media-player](https://github.com/jefere9901/siyuan-media-player) |
-| Go | `▰▰▰▰▱▱▱▱▱▱` 40% | 🟢 | [j-e-fe-re](https://github.com/jefere9901/j-e-fe-re) |
+| 技能点               | 进度                         | 状态 | 联动                                                |
+| :------------------- | :--------------------------- | :--: | :-------------------------------------------------- |
+| Git / GitHub Actions | `▰▰▰▰▱▱▱▱▱▱` 40% |  🟢  | 你正在看的这个页面 🙂                               |
+| Docker / Compose     | `▰▱▱▱▱▱▱▱▱▱` 10% |  🟡  | [容器化 API 服务](#works)                            |
+| JavaScript / Vue3    | `▰▰▰▰▰▱▱▱▱▱` 50% |  🟢  | [硅谷商城前端](#works)                               |
+| Go                   | `▰▰▰▰▱▱▱▱▱▱` 40% |  🟢  | [j-e-fe-re](https://github.com/jefere9901/j-e-fe-re) |
 
 ---
 
@@ -126,7 +126,7 @@ graph LR
 
 ## 🏆 作品进度（点一下打勾，仪式感拉满）
 
-- [x] 学习环境与双课程看板
+- [X] 学习环境与双课程看板
 - [ ] 客户信息管理系统（Python OOP 结业作）
 - [ ] FastAPI 容器化 API 服务
 - [ ] 6 个电商 AI 应用（Coze + Dify）
@@ -147,25 +147,25 @@ graph LR
 
 ## 🗺️ 65 周 main quest
 
-| 章节 | 关卡 | 状态 |
-|:---|:---|:---:|
-| Ⅰ | 共用底座（Python · Linux · MySQL · Java · Git） | 🟡 W1-W17 |
-| Ⅱ | 大模型应用 → LangChain / RAG → Agent → 微调 | ⚪ W18-W33 |
-| Ⅲ | Vibe Coding 全栈（SpringBoot + Vue3） | ⚪ W34-W38 |
-| Ⅳ | Hadoop → Hive / Kafka → Spark → 离线数仓 | ⚪ W39-W52 |
-| Ⅴ | Redis / HBase → Flink → 实时数仓 | ⚪ W53-W57 |
-| Ⅵ | Paimon 湖仓 + AI 提效 | ⚪ W58-W59 |
-| Ⅶ | 面试与作品集（Boss 战） | ⚪ W60-W65 |
+| 章节 | 关卡                                                |    状态    |
+| :--- | :-------------------------------------------------- | :--------: |
+| Ⅰ   | 共用底座（Python · Linux · MySQL · Java · Git） | 🟡 W1-W17 |
+| Ⅱ   | 大模型应用 → LangChain / RAG → Agent → 微调      | ⚪ W18-W33 |
+| Ⅲ   | Vibe Coding 全栈（SpringBoot + Vue3）               | ⚪ W34-W38 |
+| Ⅳ   | Hadoop → Hive / Kafka → Spark → 离线数仓         | ⚪ W39-W52 |
+| Ⅴ   | Redis / HBase → Flink → 实时数仓                  | ⚪ W53-W57 |
+| Ⅵ   | Paimon 湖仓 + AI 提效                               | ⚪ W58-W59 |
+| Ⅶ   | 面试与作品集（Boss 战）                             | ⚪ W60-W65 |
 
 <details>
 <summary>👉 点开看「本周副本」详细任务（W1）</summary>
 
-| 任务 | 奖励 |
-|:---|:---|
-| 装 JDK 17 / Python 3.11 / IDEA / PyCharm / VMware + CentOS | +20 XP |
-| 建 Git 仓库与笔记库，确定目录规范 | +15 XP |
-| 通读两份课程大纲，标注必学 / 选修 / 不做 | +25 XP |
-| 把 65 周计划拆成本周 7 天任务 | +40 XP |
+| 任务                                                                          | 奖励                    |
+| :---------------------------------------------------------------------------- | :---------------------- |
+| 装 JDK 17 / Python 3.11 / IDEA / PyCharm / VMware + CentOS                    | +20 XP                  |
+| 建 Git 仓库与笔记库，确定目录规范                                             | +15 XP                  |
+| 通读两份课程大纲，标注必学 / 选修 / 不做                                      | +25 XP                  |
+| 把 65 周计划拆成本周 7 天任务                                                 | +40 XP                  |
 | **通关条件**：`java -version`、`python -V`、虚拟机 SSH 登录全部跑通 | 🏅 解锁「环境猎人」徽章 |
 
 </details>
@@ -191,15 +191,15 @@ graph LR
 
 **三个冷知识，证明我们是同类：**
 
-1. 思源笔记插件的作者，最后都会变成「CSS 调试工程师」。
-2. RSS 读者的终极困境不是没有源，而是 3000 条未读。
+1. 写着写着就会发现：真正难的从来不是代码，是「为什么昨天还能跑」。
+2. 大模型最擅长的不是写代码，是把你写的 bug 解释得像 feature。
 3. 学大数据的第一课不是 Hadoop，是「为什么我的虚拟机又连不上」。
 
 <details>
 <summary>再点一层，有真彩蛋 🎁</summary>
 
-如果你也同时折腾 **思源插件 + RSS + AI**，那你大概率也在写一个「用 RAG 给笔记做语义搜索」的东西。
-我先做了个雏形：[siyuan-sireader](https://github.com/jefere9901/siyuan-sireader) —— 欢迎来提 issue，或者来告诉我你的方案更好。
+如果你也在同时折腾 **AI 应用 + 大数据**，那你大概率也在纠结「这套链路到底该用 Flink 还是 Spark」。
+我的答案是：能跑通的那套。等我把实时数仓跑起来，欢迎来聊你的方案。
 
 ```text
 技能点已加载：99%
@@ -240,19 +240,14 @@ graph LR
 ## 📌 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/jefere9901/siyuan-sireader">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jefere9901&repo=siyuan-sireader&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/jefere9901/siyuan-media-player">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jefere9901&repo=siyuan-media-player&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/jefere9901/rss-feed-reader">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jefere9901&repo=rss-feed-reader&theme=tokyonight&hide_border=true" />
-  </a>
   <a href="https://github.com/jefere9901/j-e-fe-re">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jefere9901&repo=j-e-fe-re&theme=tokyonight&hide_border=true" />
   </a>
 </div>
+
+<p align="center">
+  <i>🏗️ 更多项目正在练级路上 —— 采集平台、离线数仓、实时数仓、掌柜智库，跑通一个就搬上来一个。</i>
+</p>
 
 ---
 
